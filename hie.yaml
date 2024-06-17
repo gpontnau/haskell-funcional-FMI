@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-funcional-FMI:lib"
+
+    - path: "./test"
+      component: "haskell-funcional-FMI:test:haskell-funcional-FMI-test"
